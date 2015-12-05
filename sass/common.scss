@@ -1,0 +1,30 @@
+// COMMON STYLES
+
+
+* {
+	box-sizing: border-box; //блочная можель для каждого элемента в документе, при которой в задаваемую ширину включаются padding & border
+/* пример 
+div { //ширина не увеличится на 60px - наоборот, отнимется от 200px за счет padding & border и доступной останется 140px
+	width: 200px;
+	height: 200px;
+	border: 10px solid #000;	
+	padding: 20px;
+}
+*/
+
+}
+/* Позволяет родительскому элементу увидеть float-элементы внутри себя */
+.cf::after {
+	content: ''; //активация псевдо-элемента
+	display: block;
+	height: 0;
+	clear: both; // очищает float'ы, позволяя псевдоэлементу располагаться прямо под предыдущими float-жементами
+	visibility: hidden; //чтоб точно не показался пользователю	
+}
+
+body {
+	margin: 0;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: $weight-norm; //400 - явное указание - исключает проблемы в FF
+	border-top: 3px solid $orange;
+}

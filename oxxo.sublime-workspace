@@ -1,0 +1,497 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bg",
+				"bgi	background-image: url(${0});"
+			],
+			[
+				"xml",
+				"xmlResponse"
+			],
+			[
+				"ta",
+				"ta-c	text-align: center;"
+			],
+			[
+				"ff",
+				"ff-ss	font-family: sans-serif;"
+			],
+			[
+				"trt",
+				"trf-t	transform: translate(${1:x}, ${2:y});"
+			],
+			[
+				"ov",
+				"ov-h	overflow: hidden;"
+			],
+			[
+				"bgs",
+				"bgsz-a	background-size: auto;"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"ml",
+				"ml-a	margin-left: auto;"
+			],
+			[
+				"pos",
+				"pos-a	position: absolute;"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"no",
+				"normal"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"wr",
+				"flex-wrap"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"fl",
+				"float"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 555,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "inst",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/CloudDrive/Dropbox/Project's/mlp",
+		"/D/CloudDrive/Dropbox/Project's/mlp/Classes",
+		"/D/CloudDrive/Dropbox/Project's/mlp/img",
+		"/D/CloudDrive/Dropbox/Project's/oxxo"
+	],
+	"file_history":
+	[
+		"/D/CloudDrive/Dropbox/Project's/mlp/index.php",
+		"/D/CloudDrive/Dropbox/Project's/SSmirnov/ss77.fvds.ru/templates/src/less/components/prices.less",
+		"/D/CloudDrive/Dropbox/Project's/adapt_ipad_iphone/css/styles.less",
+		"/D/CloudDrive/Dropbox/Project's/adapt_ipad_iphone/index.html",
+		"/D/CloudDrive/Dropbox/Project's/SSmirnov/ss77.fvds.ru/templates/src/html/prices.html",
+		"/D/CloudDrive/Dropbox/Project's/SSmirnov/ss77.fvds.ru/templates/src/js/payment.js",
+		"/D/CloudDrive/Dropbox/Project's/SSmirnov/ss77.fvds.ru/templates/src/html/payment_robokassa.html",
+		"/D/CloudDrive/Dropbox/Project's/SSmirnov/ss77.fvds.ru/templates/src/html/payment_sbr.html",
+		"/D/CloudDrive/Dropbox/Project's/SSmirnov/ss77.fvds.ru/templates/src/html/payment_sbruk.html",
+		"/D/CloudDrive/Dropbox/Project's/SSmirnov/ss77.fvds.ru/templates/src/html/payment_vtb24.html",
+		"/D/CloudDrive/Dropbox/Project's/SSmirnov/ss77.fvds.ru/templates/src/html/payment_webmoney.html",
+		"/D/CloudDrive/Dropbox/Project's/SSmirnov/ss77.fvds.ru/templates/src/html/payment_yes_bonus.html",
+		"/D/CloudDrive/Dropbox/Project's/SSmirnov/ss77.fvds.ru/templates/src/html/payment_yes_ostatok.html",
+		"/D/CloudDrive/Dropbox/Project's/SSmirnov/ss77.fvds.ru/templates/src/html/payment_zpayment.html",
+		"/D/CloudDrive/Dropbox/Project's/SSmirnov/ss77.fvds.ru/templates/src/html/change_contact.html",
+		"/D/CloudDrive/Dropbox/Project's/SSmirnov/ss77.fvds.ru/templates/src/html/payment_rbk.html",
+		"/D/CloudDrive/Dropbox/Project's/SSmirnov/ss77.fvds.ru/templates/src/html/payment_fbt.html",
+		"/D/CloudDrive/Dropbox/Project's/SSmirnov/ss77.fvds.ru/templates/src/html/unsubscribe.html",
+		"/D/CloudDrive/Dropbox/Project's/SAPUI5/ODataTable3.html",
+		"/D/CloudDrive/Dropbox/Project's/SAPUI5/ODataTable2.html",
+		"/D/CloudDrive/Dropbox/Project's/SAPUI5/ODataTable.html",
+		"/D/CloudDrive/Dropbox/Project's/SAPUI5/innoway-test.html",
+		"/D/CloudDrive/Dropbox/Project's/SAPUI5/test.html",
+		"/D/CloudDrive/Dropbox/Project's/SSmirnov/ss77.fvds.ru/templates/src/js.vendors/waiting_call.js",
+		"/D/CloudDrive/Dropbox/Project's/SSmirnov/ss77.fvds.ru/templates/src/html_/main.html",
+		"/D/CloudDrive/Dropbox/Project's/SSmirnov/ss77.fvds.ru/templates/src/tpls/headline.tpl",
+		"/D/CloudDrive/Dropbox/Project's/SSmirnov/ss77.fvds.ru/templates/src/tpls/topmenu.tpl",
+		"/D/CloudDrive/Dropbox/Project's/SSmirnov/ss77.fvds.ru/templates/src/tpls/headline_wc.tpl",
+		"/D/CloudDrive/Dropbox/Project's/SSmirnov/ss77.fvds.ru/templates/src/less/components/main.less",
+		"/D/CloudDrive/Dropbox/Project's/SSmirnov/ss77.fvds.ru/templates/src/js/main.js",
+		"/D/CloudDrive/Dropbox/Project's/test-ekleft/index.html",
+		"/D/CloudDrive/Dropbox/Project's/test-ekleft/bower_components/bootstrap-sass/assets/stylesheets/_bootstrap.scss",
+		"/D/CloudDrive/Dropbox/Project's/test-ekleft/sass/_custom.scss",
+		"/D/CloudDrive/Dropbox/Project's/test-ekleft/js/main.js",
+		"/D/CloudDrive/Dropbox/Project's/SSmirnov/ss77.fvds.ru/templates/src/html/sign_up.html",
+		"/D/CloudDrive/Dropbox/Project's/SSmirnov/ss77.fvds.ru/templates/src/js/toggleMenu.js",
+		"/D/CloudDrive/Dropbox/Project's/test-ekleft/js/main.min.js",
+		"/D/CloudDrive/Dropbox/Project's/test-ekleft/bower_components/bootstrap-sass/assets/javascripts/bootstrap.min.js",
+		"/D/CloudDrive/Dropbox/Project's/test-ekleft/css/style.min.css",
+		"/D/CloudDrive/Dropbox/Project's/test-ekleft/sass/_customVariables.scss",
+		"/D/CloudDrive/Dropbox/Project's/test-ekleft/sass/style.scss",
+		"/F/! Web-coding/! Bootstrap/[ITVDN] Bootstrap Framework 3 (обзор возможностей)/001_Знакомство с Bootstrap/001_intro/002_basic_template.html",
+		"/D/CloudDrive/Dropbox/Project's/test-ekleft/styles/styles.less",
+		"/D/CloudDrive/Dropbox/Project's/Parallax-jQuery/css/style.css",
+		"/D/CloudDrive/Dropbox/Project's/Parallax-jQuery/js/common.js",
+		"/D/CloudDrive/Dropbox/Project's/SSmirnov/ss77.fvds.ru/templates/splash/main.html",
+		"/D/CloudDrive/Dropbox/Project's/Parallax-jQuery/index.html",
+		"/D/CloudDrive/Dropbox/Project's/Parallax-jQuery/css/style-dist.css",
+		"/D/CloudDrive/Dropbox/Project's/SSmirnov/ss77.fvds.ru/templates/test/grissli.html",
+		"/D/CloudDrive/Dropbox/Project's/SSmirnov/ss77.fvds.ru/templates/src/less/less.less",
+		"/D/CloudDrive/Dropbox/Project's/SSmirnov/ss77.fvds.ru/templates/src/css/main-styles.css",
+		"/D/CloudDrive/Dropbox/Project's/SSmirnov/ss77.fvds.ru/templates/splash/main.php",
+		"/D/CloudDrive/Dropbox/Project's/SSmirnov/ss77.fvds.ru/templates/test/test_div100.html",
+		"/D/CloudDrive/Dropbox/Project's/SSmirnov/ss77.fvds.ru/templates/src/html/creative_blog_lesson.html",
+		"/D/CloudDrive/Dropbox/Project's/SSmirnov/ss77.fvds.ru/templates/src/html/choose_cg_luck.html",
+		"/D/CloudDrive/Dropbox/Project's/SSmirnov/ss77.fvds.ru/templates/src/html/after_registration.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"D:\\CloudDrive\\Dropbox\\Project's\\SSmirnov\\ss77.fvds.ru\\templates\\src\\html",
+			"D:\\CloudDrive\\Dropbox\\Project's\\test-ekleft\\bower_components",
+			"D:\\CloudDrive\\Dropbox\\Project's\\SSmirnov\\ss77.fvds.ru\\templates\\src"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"»",
+			"«",
+			"’",
+			"‘",
+			"}",
+			"                    //",
+			"Categories",
+			"onclick=\"confirm();\"",
+			"\"",
+			"table",
+			"}\n",
+			"myCarousel",
+			"carousel",
+			">--</option>",
+			"\"",
+			"wrapToggleMenuHeader",
+			"\n@",
+			" '",
+			"cover",
+			"auto",
+			"word-wrap",
+			"maket",
+			"focus",
+			"\n:",
+			"6dc1ec",
+			"c0392b",
+			"contactee-found",
+			"now",
+			"\"",
+			"time",
+			"Time",
+			"time",
+			"Time",
+			"time",
+			"now",
+			" {",
+			"basic_additional_work_text",
+			"basic_additional_work_block",
+			"main-report-form_basic",
+			"main-info-panel-flex-item_img-button",
+			"main-info-panel-flex-item-span_stroke",
+			"main-info-panel-flex-item-quality_closed",
+			"main-info-panel-flex-item-quality_opened",
+			"main-info-panel-flex-item-quality_ul",
+			"main-info-panel__flex-item",
+			"main-info-panel__flex-container",
+			"fs12px",
+			"img_button",
+			"main-letter__input_width",
+			"quality-opened__i",
+			"main-info-panel_flex-container",
+			"main-info-panel_flex-item",
+			"main-report__ul",
+			"main-report__p_inlline",
+			"text-center",
+			"text-align: center;",
+			"main-textarea",
+			"<textarea",
+			"</textarea>",
+			"basic_сb_worktime_morning",
+			"basic_сb_worktime",
+			"report"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\"",
+			"'",
+			"onclick=\"confirm_payment();\"",
+			"'",
+			"layout",
+			"'",
+			"main-report-form-basic-additional-work-block-text",
+			"main-report-form-basic-additional-work-block",
+			"main-report-form-basic",
+			"main-info-panel-flex-item__img-button",
+			"main-info-panel-flex-item__span_stroke",
+			"main-info-panel-flex-item-quality__li_closed",
+			"main-info-panel-flex-item-quality__li_opened",
+			"main-info-panel-flex-item-quality__ul",
+			"main-info-panel-flex-item",
+			"main-info-panel-flex-container",
+			"main-info-panel__flex-item_img-button",
+			"main-report-form__letter_input-width",
+			"main-info-panel__flex-item-quality_opened-i",
+			"main-info-panel__flex-container",
+			"main-info-panel__flex-item",
+			"main-report-form_ul",
+			"main-report-form_p__inlline",
+			"taCenter",
+			"main_textarea main_textarea__font",
+			"<textarea class=\"main-textarea\"",
+			"</textarea><small></small>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 555,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"default_dir": "D:\\CloudDrive\\Dropbox\\Project's\\SSmirnov\\ss77.fvds.ru\\templates",
+							"is_xml": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.626160110205,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "oxxo.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 252.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
