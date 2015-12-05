@@ -1,4 +1,4 @@
-// COMMON STYLES
+// COMMON STYLES - общие стили
 
 
 * {
@@ -27,4 +27,22 @@ body {
 	font-family: 'Open Sans', sans-serif;
 	font-weight: $weight-norm; //400 - явное указание - исключает проблемы в FF
 	border-top: 3px solid $orange;
+}
+
+.sect {
+	padding-top: 80px;
+	padding-bottom: 80px;
+}
+
+ul {
+	list-style: none;
+	padding: 0;
+}
+
+h1 {
+	text-transform: uppercase;
+	text-align: center;
+	font-weight: $weight-bold;
+	font-size: 36px;
+	color: $grey;
 }

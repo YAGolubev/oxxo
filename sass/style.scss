@@ -4,3 +4,18 @@
 @import 'common';
 
 
+// HEADER SECTION
+#header {
+	background: darken($grey, 10%) url(../img/header_bg.jpg) center top no-repeat;
+	background-size: cover;
+	min-height: 860px;
+	text-align: center;
+	color: #fff;
+	text-transform: uppercase;
+	padding-top: 35px;
+
+	.m-menu {
+		display: flex;
+		justify-content: space-around; //выравнивание с учетом отступа родительского контейнера
+	}
+}

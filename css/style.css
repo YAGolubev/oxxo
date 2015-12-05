@@ -378,3 +378,35 @@ body {
   font-family: 'Open Sans', sans-serif;
   font-weight: 400;
   border-top: 3px solid #ff7200; }
+
+.sect {
+  padding-top: 80px;
+  padding-bottom: 80px; }
+
+ul {
+  list-style: none;
+  padding: 0; }
+
+h1 {
+  text-transform: uppercase;
+  text-align: center;
+  font-weight: 700;
+  font-size: 36px;
+  color: #666; }
+
+#header {
+  background: #4d4d4d url(../img/header_bg.jpg) center top no-repeat;
+  background-size: cover;
+  min-height: 860px;
+  text-align: center;
+  color: #fff;
+  text-transform: uppercase;
+  padding-top: 35px; }
+  #header .m-menu {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-justify-content: space-around;
+        -ms-flex-pack: distribute;
+            justify-content: space-around; }
